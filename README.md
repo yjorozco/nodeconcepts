@@ -1,3 +1,3 @@
 # nodeconcepts
 
-this is a  Stephen Grider course Node Advance
+this is the Stephen Grider's Node Advance Course
